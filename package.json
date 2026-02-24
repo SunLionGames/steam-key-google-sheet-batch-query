@@ -1,0 +1,13 @@
+{
+  "name": "steam-key-google-sheet-batch-query",
+  "version": "1.0.0",
+  "description": "Steam key batch query with Google Sheets integration",
+  "main": "index.js",
+  "dependencies": {
+    "@google-cloud/local-auth": "^2.1.0",
+    "async": "^3.2.6",
+    "googleapis": "^171.4.0",
+    "request": "^2.81.0",
+    "tough-cookie-filestore": "0.0.1"
+  }
+}

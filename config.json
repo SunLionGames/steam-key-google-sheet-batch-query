@@ -1,0 +1,10 @@
+{
+    "spreadsheetId": "YOUR_GOOGLE_SPREADSHEET_ID_HERE",
+    "sheetName": "YOUR_SHEET_NAME_HERE",
+    "keyColumn": "A",
+    "resultColumn": "B",
+    "filterColumn": "C",
+    "filterValues": ["EMAIL_OPENED", "EMAIL_CLICKED", "RESPONDED"],
+    "googleApiAuthFile": "./googlesheets_credentials.json",
+    "authCookies": "sessionid=SESSION_ID_HERE; steamLoginSecure=SUPER_LONG_LOGIN_TOKEN_HERE"
+}
