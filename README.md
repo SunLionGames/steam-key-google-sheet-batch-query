@@ -73,6 +73,8 @@ Fill out `config.json`:
 
 ## 🏃 Running the Script
 
+**I highly recommend running against a test sheet first. This tool doesn't have any safety checks, so if you accidentally choose the wrong column for the results it will absolutely stomp anything in that column in your sheet.**
+
 You can use the provided runners:
 
 * **Windows**: Double-click `run_query.bat`
